@@ -1,2 +1,3 @@
-# Penetration-Testing-Portfolio
-A hands-on cybersecurity portfolio showcasing internal network penetration testing, Active Directory attacks, web application testing, and professional reporting. Includes methodologies, lab-based simulations, and remediation guidance aligned with real-world security assessments.
+# Penetration Testing Portfolio
+
+This repository contains hands-on penetration testing labs, Active Directory attack demonstrations, and internal assessment reporting examples conducted in authorized lab environments for educational purposes.

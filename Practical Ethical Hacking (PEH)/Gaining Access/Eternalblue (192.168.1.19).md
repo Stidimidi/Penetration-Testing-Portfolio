@@ -1,3 +1,8 @@
+## Nmap Full Port Scan Result
+
+**Command Used**
+```bash
+
 - nmap -p- -A -T4 192.168.1.19
 Starting Nmap 7.95 ( [https://nmap.org](https://nmap.org/) ) at 2025-10-30 13:50 UTC
 Nmap scan report for WIN-845Q99OO4PP.realtek (192.168.1.19)
@@ -49,7 +54,7 @@ HOP RTT     ADDRESS
 
 OS and Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
 Nmap done: 1 IP address (1 host up) scanned in 78.00 seconds
-
+```
 - msfconsole - search eternalblue
 - msf auxiliary(scanner/smb/smb_ms17_010
 - msf auxiliary(scanner/smb/smb_ms17_010) > run
